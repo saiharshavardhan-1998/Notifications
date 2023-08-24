@@ -1,0 +1,57 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: "Roboto";
+  flex-direction: column;
+}
+.image1 {
+  height: 50px;
+  width: 50px;
+}
+.image2 {
+  height: 50px;
+  width: 50px;
+}
+.image3 {
+  height: 50px;
+  width: 50px;
+}
+.image4 {
+  height: 50px;
+  width: 50px;
+}
+.imageContainer1 {
+  display: flex;
+  background-color: blue;
+  color: white;
+  height: 100px;
+  width: 450px;
+  padding-left: 16px;
+}
+.imageContainer4 {
+  display: flex;
+  background-color: blue;
+  color: white;
+  height: 100px;
+  width: 450px;
+  padding-left: 16px;
+}
+
+.imageContainer2 {
+  display: flex;
+  background-color: blue;
+  color: white;
+  height: 100px;
+  width: 450px;
+  padding-left: 16px;
+}
+
+.imageContainer3 {
+  display: flex;
+  background-color: blue;
+  color: white;
+  height: 100px;
+  width: 450px;
+  padding-left: 16px;
+}
